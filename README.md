@@ -133,7 +133,7 @@ Support is provided for opening cloud computer screens through the Wuying Web SD
 - You can configure keyboard and mouse interaction switches through the parameters &input=true&keyboard=true in the URL, or configure interaction switches in real time through the Web SDK interface. For detailed information, please refer to [Web SDK Documentation](https://wuying.aliyun.com/wuyingWebSdk/docs/category/intro)。
 
 ## Next Steps
-You can test the effect using built-in prompts like open the browser with wuying-agentbay and access wuying.aliyun.com or similar prompts. If configured correctly, the Wuying cloud environment will be initiated, and browser operations will be executed. During this process, the model will provide a Web link for you to open the Wuying screen stream and take over operations.
+You can test the effect using built-in prompts like **open the browser with wuying-agentbay and access wuying.aliyun.com** or similar prompts. If configured correctly, the Wuying cloud environment will be initiated, and browser operations will be executed. During this process, the model will provide a Web link for you to open the Wuying screen stream and take over operations.
 ![Next Steps](https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/8045084471/p943842.png)
 
 
