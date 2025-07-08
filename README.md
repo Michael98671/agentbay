@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/michael98671-agentbay-badge.png)](https://mseep.ai/app/michael98671-agentbay)
+
 # Wuying AgentBay MCP Server
 
 English | [中文](README_zh.md) 
