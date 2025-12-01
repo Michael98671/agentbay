@@ -2,6 +2,7 @@
 
 English | [中文](README_zh.md) 
 
+[![smithery badge](https://smithery.ai/badge/@Michael98671/agentbay)](https://smithery.ai/server/@Michael98671/agentbay)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -146,6 +147,3 @@ MIT
 For support and more information, please visit:
 - [Alibaba Cloud Wuying Documentation](https://www.aliyun.com/product/ecs/wuying)
 - [AgentBay Product Page](https://www.aliyun.com/activity/wuying/aiagent)
-
-
-
