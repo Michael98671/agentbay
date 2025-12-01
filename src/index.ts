@@ -40,7 +40,7 @@ export default function createStatelessServer({
       const baseUrl = config.REGION === "singapore" 
         ? "https://agentbay-intl.wuying.aliyuncs.com"
         : "https://agentbay.wuying.aliyuncs.com";
-      const targetUrl = `${baseUrl}/sse?APIKEY=${config.APIKEY}&IMAGEID=${config.IMAGEID}`;
+      const targetUrl = `${baseUrl}/v2/sse?APIKEY=${config.APIKEY}&IMAGEID=${config.IMAGEID}`;
       const transport = new SSEClientTransport(new URL(targetUrl));
       client = new Client({
         name: "mcp-proxy-client",
